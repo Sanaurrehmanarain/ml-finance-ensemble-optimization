@@ -10,8 +10,6 @@
 
 **Team Alpha:**
 * Sana Ur Rehman Arain
-* Abrar Ahmed
-* Qhayiya Mayinje
 
 ### Project Overview
 This project addresses three critical questions posed by portfolio strategists regarding the reliability and deployment of our Machine Learning models:
