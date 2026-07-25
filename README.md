@@ -5,7 +5,7 @@
   <p><em>Click the banner to view the full analysis report</em></p>
 </div>
 
-# Machine Learning in Finance - Group Work Project 3
+# Machine Learning in Finance 
 ## Advanced Model Optimization & Ensemble Learning
 
 **Team Alpha:**
