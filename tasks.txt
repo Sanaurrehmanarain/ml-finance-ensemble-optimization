@@ -1,0 +1,18 @@
+Task 1: Hyperparameter Optimization
+- Explain selection and use of hyperparameters (Alpha/Lambda).
+- Demonstrate technical optimization methods (LassoCV/GridSearch).
+- Provide non-technical justification for optimality.
+
+Task 2: Bias-Variance Tradeoff Optimization
+- Analyze model performance within-sample vs out-of-sample.
+- Generate Learning Curves to visualize Bias and Variance.
+- Discuss the process of optimizing the tradeoff.
+
+Task 3: Ensemble Learning Application
+- Implement Homogeneous Ensembles (Random Forest).
+- Implement Heterogeneous Ensembles (Stacking LASSO + Neural Network).
+- Compare performance against baseline models.
+
+Task 4: Reporting
+- Create Technical Report (Code, Proofs, Interpretations).
+- Create Non-Technical Report (Investment context, no jargon).
